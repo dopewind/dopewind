@@ -1,0 +1,22 @@
+{
+  "name": "dopewind",
+  "version": "1.0.0",
+  "description": "landing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dopewind/dopewind.git"
+  },
+  "author": "dopewind",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dopewind/dopewind/issues"
+  },
+  "homepage": "https://github.com/dopewind/dopewind#readme",
+  "dependencies": {
+    "mustache": "^4.0.1"
+  }
+}
