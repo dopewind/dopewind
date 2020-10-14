@@ -13,13 +13,15 @@ deploy:
   # Use Github pages deploy process
   provider: pages
   # Directory where your generated files are located
-  local_dir: _site
+  local_dir: ./
   # Github security/auth token
   github-token: $GITHUB_TOKEN
   # Incremental commit to keep old build/files from previous deployments
   keep-history: true
   # Git branch on which it should deploy (master, gh-pages, foo...)
   target_branch: master
+  skip-cleanup: true
+
   on:
     # Which branch on commit/push will trigger deployment
     branch: hit
