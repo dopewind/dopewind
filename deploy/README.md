@@ -13,13 +13,13 @@
 <a href="https://www.reddit.com/user/illuminaandii/">
   <img align="left" alt="Karthik's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dopewind.dopewind)
+
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=dopewind.dopewind)](https://visitor-badge.glitch.me/badge?page_id=dopewind.dopewind)
 
 <br />
 
 Hi, I'm [Karthik](https://dopewind.github.io), an aspiring student from 🚀 from India.
 
-  
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something every other lame thing :wink:
