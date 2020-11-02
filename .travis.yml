@@ -9,6 +9,10 @@ dist: focal
 script:
   - npm install
   - node index.js
+
+after_script:
+  - bash .travis/tg_notify.sh
+
 deploy:
   # Use Github pages deploy process
   provider: pages
