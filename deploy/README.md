@@ -47,7 +47,7 @@ Hi, I'm [Karthik](https://dopewind.github.io), an aspiring student from from Ind
 ## 📈 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" style="height: 10%;width: 10%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dopewind&theme=radical" />
+  <img align="right" style="height: 200;width: 200;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dopewind&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=dopewind&count_private=true&theme=radical" />
